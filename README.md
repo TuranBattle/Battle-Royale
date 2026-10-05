@@ -1,2 +1,2 @@
-# TuranBattle.github.com
+# TuranBattle
 Turan's Battle Royale TuranBattle......
